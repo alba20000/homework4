@@ -6,3 +6,4 @@ from core import models
 admin.site.register(models.Animal)
 admin.site.register(models.Clients)
 admin.site.register(models.Goods)
+admin.site.register(models.Staff)
